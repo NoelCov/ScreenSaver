@@ -1,0 +1,15 @@
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.csproj.AssemblyReference.cache
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.AssemblyInfoInputs.cache
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.AssemblyInfo.cs
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.csproj.CoreCompileInputs.cache
+D:\coding\ScreenSaver\bin\Debug\net6.0\ScreenSaver.exe
+D:\coding\ScreenSaver\bin\Debug\net6.0\ScreenSaver.deps.json
+D:\coding\ScreenSaver\bin\Debug\net6.0\ScreenSaver.runtimeconfig.json
+D:\coding\ScreenSaver\bin\Debug\net6.0\ScreenSaver.dll
+D:\coding\ScreenSaver\bin\Debug\net6.0\ScreenSaver.pdb
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.dll
+D:\coding\ScreenSaver\obj\Debug\net6.0\refint\ScreenSaver.dll
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.pdb
+D:\coding\ScreenSaver\obj\Debug\net6.0\ScreenSaver.genruntimeconfig.cache
+D:\coding\ScreenSaver\obj\Debug\net6.0\ref\ScreenSaver.dll
